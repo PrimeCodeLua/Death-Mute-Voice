@@ -1,4 +1,4 @@
-print('SCRIPT BRAD | Script crée par Prime')
+print('SCRIPT PRIME | Script crée par Prime')
 
 RegisterNetEvent('brad-deathvoice:setVoiceState')
 AddEventHandler('brad-deathvoice:setVoiceState', function(state)
